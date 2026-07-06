@@ -1,0 +1,5 @@
+No exponer datos personales de los usuarios y proteger su privacidad en todo momento.
+Proteger las credenciales de acceso utilizando contraseñas seguras y sin compartirlas con terceros.
+Usar conexiones seguras (HTTPS) para proteger la información que se transmite entre los usuarios y la plataforma.
+Registrar los accesos y las acciones importantes para facilitar el seguimiento y la detección de actividades inusuales.
+Limitar el acceso a la información sensible mediante roles y permisos, de modo que cada usuario solo pueda acceder a los datos necesarios según sus funciones.

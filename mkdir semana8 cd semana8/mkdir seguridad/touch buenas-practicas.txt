@@ -1,0 +1,3 @@
+1. Proteger las contraseñas utilizando claves seguras y únicas para cada cuenta.
+2. No compartir credenciales de acceso con otras personas y mantener la información confidencial.
+3. Mantener el software y el sistema operativo actualizados para corregir vulnerabilidades y mejorar la seguridad.
